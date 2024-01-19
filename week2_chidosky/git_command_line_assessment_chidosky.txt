@@ -1,0 +1,6 @@
+Commads I learned on week 1
+CD = Change Directory= its used to move between directories either forward or backward
+mkdir= Make directory - it's used to create new directory
+ls= List- it's used to list files inside a directory
+touch = it's use is to create a new files
+cat = concatenate- it's used to display contents of a file
